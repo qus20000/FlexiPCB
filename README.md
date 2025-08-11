@@ -35,8 +35,8 @@ The board also features 2x2mm square single-sided pads and through-hole pads, en
 
 ## Files
 - `FlexiPCB_Gerber.zip` – This is Gerber file. 
-- `top.png` – Top side PCB preview
-- `bottom.png` – Bottom side PCB preview
+- `Top.png` – Top side PCB preview
+- `Bottom.png` – Bottom side PCB preview
 
 ## License
 This project is released under the MIT License.
