@@ -22,10 +22,10 @@ The board also features 2x2mm square single-sided pads and through-hole pads, en
 
 ## PCB Preview
 **Top View**  
-![FlexiPCB Top](top.png)
+![FlexiPCB Top](Top.png)
 
 **Bottom View**  
-![FlexiPCB Bottom](bottom.png)
+![FlexiPCB Bottom](Bottom.png)
 
 ## Applications
 - Rapid prototyping of mixed SMD and through-hole circuits
